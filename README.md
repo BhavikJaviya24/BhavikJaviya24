@@ -1,5 +1,5 @@
 # 💫 About Me:
-Master’s in Computer Science student (expected 2026) with a strong academic background and project experience in software development. Proficient in Python, Java, Node.js, and database management. Seeking a challenging role to leverage skills in building scalable and robust applications.
+Master’s in Computer Science student with a strong academic background and project experience in software development. Proficient in Python, Java, Node.js, and database management. Seeking a challenging role to leverage skills in building scalable and robust applications.
 
 
 ## 🌐 Socials:
